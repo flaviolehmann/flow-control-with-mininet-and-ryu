@@ -22,3 +22,7 @@ This project is intended to demonstrate how does a Software Defined Network work
 We'll be build this environment using mininet. If we send any package from h1 to h2 with the destination port 5001, it should flow through the flow 1. 5002 should pick the flow 2 and 5003 the flow 3.
 The enviroment implementation is in file 'env.py', and should be run using mininet.
 The controller logic implementation is in file 'ovs.py', and should be run using ryu.
+
+<h5>Any Doubts?</h5>
+Please, send me an email!
+I'll answer you as soon as possible.
